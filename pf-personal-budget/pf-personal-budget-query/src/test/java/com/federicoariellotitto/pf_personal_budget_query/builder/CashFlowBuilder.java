@@ -1,6 +1,4 @@
-package com.federicoariellotitto.personal_budget_service.builder;
-
-import com.federicoariellotitto.personal_budget_service.domain.CashFlow;
+package com.federicoariellotitto.pf_personal_budget_query.builder;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
